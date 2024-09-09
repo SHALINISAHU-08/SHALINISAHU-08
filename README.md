@@ -1,7 +1,7 @@
 # Hi there, I'm SHALINI - aka @SHALINISAHU08 👋 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="assets/hi.gif">
+<img hight="200" width="460" alt="GIF" align="center" src="assets/hi.gif">
 </div>
 
 </br>
